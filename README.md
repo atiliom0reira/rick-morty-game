@@ -4,6 +4,7 @@
 
 Este projeto trata-se de um jogo de memória com personagens do meu desenho favorito: Rick and Morty. Ele foi construído com HTML, CSS e JavaScript. Jogo criando afim de aprofundar meus conhecimentos em JavaScript.
 
+Link para o Jogo: https://atiliom0reira.github.io/rick-morty-game/
 
 ## Estrutura do Projeto e telas
 
